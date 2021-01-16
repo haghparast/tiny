@@ -1,2 +1,1 @@
-# tiny
-The tiniest npm module
+This is a tiny package
